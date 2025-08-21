@@ -36,10 +36,10 @@ I'm Mohamed, Fullstack developer from <span title="Egypt">🇪🇬</span> <b>Egy
 
 ### 📫 How to reach me
 <p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamed-ahmed-771717337/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR-EMAIL@example.com">
+  <a href="mailto:mohamed.ahmed.engineer200@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
