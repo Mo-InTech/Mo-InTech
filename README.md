@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <p>Welcome to my page! </br> 
-I'm Mohamed, Fullstack developer from <span title="Egypt">🇪🇬</span> <b>Egypt</b>, currently living in <span title="Egypt">🇪🇬</span> <b>Egypt</b>. 
+I'm Mohamed, Fullstack developer from  <b>Egypt</b> 
 </p>
 
 <h3>Things I code with</h3>
