@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <p>Welcome to my page! </br> 
-I'm Mohamed, Fullstack developer from <span title="Egypt">🇪🇬</span> <b>Egypt</b>, currently living in <span title="Egypt">🇪🇬</span> <b>Egypt</b>. 
+I'm Mohamed, Fullstack developer from  <b>Egypt</b>, currently living in  <b>Egypt</b>. 
 </p>
 
 ---
@@ -12,6 +12,7 @@ I'm Mohamed, Fullstack developer from <span title="Egypt">🇪🇬</span> <b>Egy
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000000" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=ffffff" />
+  <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=ffffff" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=ffffff" />
   <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=ffffff" />
