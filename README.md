@@ -68,10 +68,10 @@ Computer Science graduate focused on Data Science & Machine Learning, with a str
 ## 📊 GitHub Stats
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Suliman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Suliman&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Suliman&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Suliman&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" width="49%" alt="Most Used Languages"/>
 </p>
 
 <p float="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Suliman&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Mohamed-Suliman&theme=radical&hide_border=true&background=0d1117" width="49%" alt="GitHub Streak"/>
 </p>
