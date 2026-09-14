@@ -65,13 +65,4 @@ Computer Science graduate focused on Data Science & Machine Learning, with a str
 
 <br/>
 
-## 📊 GitHub Stats
 
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Suliman&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Suliman&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" width="49%" alt="Most Used Languages"/>
-</p>
-
-<p float="left">
-  <img src="https://streak-stats.demolab.com?user=Mohamed-Suliman&theme=radical&hide_border=true&background=0d1117" width="49%" alt="GitHub Streak"/>
-</p>
